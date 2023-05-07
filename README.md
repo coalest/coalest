@@ -1,9 +1,10 @@
 ### Hey there, I'm Cory 👋
 
-I'm a **backend Ruby developer** with over a year of commercial experience. So far I've been focusing on writing Ruby/Rails code on the backend, but am currently catching up on the frontend (JS and React). Excited about Domain-Driven Design and Event Sourcing, but always enjoy learning and applying new design patterns to meet project needs.
+I'm a **backend Ruby developer** with over a year of commercial experience. I have experience in writing Ruby, Rails and SQL code. Applying Domain-Driven Design and Event Sourcing in my current project at Ragnarson, but enjoy learning new design patterns to meet the needs of a project.
 
-- 🌱 I’m currently learning **Domain Driven Design, how to optimize Rails, and SQL**
-- 💬 Let's chat about **Ruby and Ruby on Rails**
+- 📚 Experienced in **Ruby, Ruby on Rails, and PostgreSQL**
+- 🌱 I’m currently learning **JavaScript and React**
+- 💬 Let's chat about **Ruby, SQL or JavaScript**
 - 📫 You can reach me **c.streiff@pm.me**
 
 ### Connect with me:
