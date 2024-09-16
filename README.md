@@ -1,6 +1,6 @@
 ### Hey there, I'm Cory 👋
 
-I'm a **backend developer** with over three years of commercial experience. Most of my production experience is in writing Ruby, Rails and SQL code, but I also have experience in Python and Javascript. 
+I'm a **fullstack developer** focusing on the backend with over three years of commercial experience. Most of my production experience is in writing Ruby, Rails and SQL code, but I also have experience in Python and Javascript. 
 
 - 📚 Experienced in **Ruby, Ruby on Rails, and PostgreSQL**
 - 🌱 I’m currently learning **Typescript and React**
