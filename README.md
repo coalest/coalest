@@ -1,8 +1,8 @@
 ### Hey there, I'm Cory 👋
 
-I'm a **fullstack developer** focusing on the backend with over three years of commercial experience. Most of my production experience is in writing Ruby, Rails and SQL code, but I also have experience in Python and Javascript. 
+I'm a **fullstack developer** focusing on the backend with over three years of commercial experience. Most of my production experience is on the backend (Ruby, Javascript, Node.js, SQL), but I know enough frontend to get by as a full stack.
 
-- 📚 Experienced in **Ruby, Ruby on Rails, and PostgreSQL**
+- 📚 Experienced in **Node.js, Ruby on Rails, and PostgreSQL**
 - 🌱 I’m currently learning **Typescript and React**
 - 💬 Let's chat about **Event sourcing or Domain Driven Design**
 - 📫 You can reach me **c.streiff@pm.me**
