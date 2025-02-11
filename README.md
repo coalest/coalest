@@ -1,6 +1,6 @@
 ### Hey there, I'm Cory 👋
 
-I'm a **fullstack developer** focusing on the backend with over three years of commercial experience. Most of my production experience is on the backend (Ruby, Javascript, Node.js, SQL), but I know enough frontend to get by as a full stack.
+I'm a **full stack developer** focusing with over four years of commercial experience. Most of my production experience is on the backend (Ruby, Javascript, Node.js, SQL), but I am also familar with React on the frontend.
 
 - 📚 Experienced in **Node.js, Ruby on Rails, and PostgreSQL**
 - 🌱 I’m currently learning **Typescript and React**
