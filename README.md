@@ -2,8 +2,7 @@
 
 I'm a **full stack developer** focusing with over four years of commercial experience. Most of my production experience is on the backend (Ruby, Javascript, Node.js, SQL), but I am also familar with React on the frontend.
 
-- 📚 Experienced in **Node.js, Ruby on Rails, and PostgreSQL**
-- 🌱 I’m currently learning **Typescript and React**
+- 📚 Experienced in **Node.js, TypeScript, React, Ruby on Rails, and PostgreSQL**
 - 💬 Let's chat about **Event sourcing or Domain Driven Design**
 - 📫 You can reach me **c.streiff@pm.me**
 
